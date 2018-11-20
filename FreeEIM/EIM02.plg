@@ -1,0 +1,145 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: EIM02 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/EIM02.res" /d "NDEBUG" /d "_AFXDLL" "D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\EIM02.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP37B5.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/EIM02.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\EIM02.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\EIM02Dlg.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\EIM_ViewHistory.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\EIMChatingWaiter.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\em\EM_FileReceiving.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\em\EM_FileSendingDlg.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\em\EM_GroupInfo.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\EM_MsgDlg.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\EM_RecvChat.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\EM_SendChat.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\em\EM_UserInfo.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\em\EM_UserLogin.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\EM_UserProperty.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\em\EM_UserTree.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\em\EMRichEdit.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\freeeim_config.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\freeeim_history.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\freeeim_message_logic.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\freeeim_package.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\freeeim_user_logic.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\thirdpartclass\GetHardSoftInfo.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\ImageDataObject.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\thirdpartclass\INI.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\MSGReceiver.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\thirdpartclass\PictureEx.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\em\stdemdef.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\thirdpartclass\SystemTray.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\UserSettingDlg.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\WaveIn.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\WaveOut.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\webbrowser2.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\thirdpartclass\WinAppEx.cpp"
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\XEIM_Database.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP37B5.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP37B6.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/EIM02.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\用户目录\下载\FreeEIM 飞鸽传书仿QQ即时通讯软件VC++源代码\www.NewXing.com\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP37B6.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP37B7.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/freeeim.pdb" /machine:I386 /out:"Release/freeeim.exe" 
+".\Release\EIM02.obj"
+".\Release\EIM02Dlg.obj"
+".\Release\EIM_ViewHistory.obj"
+".\Release\EIMChatingWaiter.obj"
+".\Release\EM_FileReceiving.obj"
+".\Release\EM_FileSendingDlg.obj"
+".\Release\EM_GroupInfo.obj"
+".\Release\EM_MsgDlg.obj"
+".\Release\EM_RecvChat.obj"
+".\Release\EM_SendChat.obj"
+".\Release\EM_UserInfo.obj"
+".\Release\EM_UserLogin.obj"
+".\Release\EM_UserProperty.obj"
+".\Release\EM_UserTree.obj"
+".\Release\EMRichEdit.obj"
+".\Release\freeeim_config.obj"
+".\Release\freeeim_history.obj"
+".\Release\freeeim_message_logic.obj"
+".\Release\freeeim_package.obj"
+".\Release\freeeim_user_logic.obj"
+".\Release\GetHardSoftInfo.obj"
+".\Release\ImageDataObject.obj"
+".\Release\INI.obj"
+".\Release\MSGReceiver.obj"
+".\Release\PictureEx.obj"
+".\Release\StdAfx.obj"
+".\Release\stdemdef.obj"
+".\Release\SystemTray.obj"
+".\Release\UserSettingDlg.obj"
+".\Release\WaveIn.obj"
+".\Release\WaveOut.obj"
+".\Release\webbrowser2.obj"
+".\Release\WinAppEx.obj"
+".\Release\XEIM_Database.obj"
+".\Release\EIM02.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP37B7.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+EIM02.cpp
+EIM02Dlg.cpp
+EIM_ViewHistory.cpp
+EIMChatingWaiter.cpp
+EM_FileReceiving.cpp
+EM_FileSendingDlg.cpp
+EM_GroupInfo.cpp
+EM_MsgDlg.cpp
+EM_RecvChat.cpp
+EM_SendChat.cpp
+EM_UserInfo.cpp
+EM_UserLogin.cpp
+Generating Code...
+Compiling...
+EM_UserProperty.cpp
+EM_UserTree.cpp
+EMRichEdit.cpp
+freeeim_config.cpp
+freeeim_history.cpp
+freeeim_message_logic.cpp
+freeeim_package.cpp
+freeeim_user_logic.cpp
+GetHardSoftInfo.cpp
+ImageDataObject.cpp
+INI.cpp
+MSGReceiver.cpp
+Generating Code...
+Compiling...
+PictureEx.cpp
+stdemdef.cpp
+SystemTray.cpp
+UserSettingDlg.cpp
+WaveIn.cpp
+WaveOut.cpp
+webbrowser2.cpp
+WinAppEx.cpp
+XEIM_Database.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+freeeim.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
